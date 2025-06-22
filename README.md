@@ -1,5 +1,5 @@
-![App Screenshot](screenshot.png)
 ![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
 
 # 🎧 Podcast Summarizer – Full Setup & Instructions
 
