@@ -1,3 +1,6 @@
+![App Screenshot](screenshot.png)
+![App Screenshot](screenshot1.png)
+
 # 🎧 Podcast Summarizer – Full Setup & Instructions
 
 A modern AI-powered app that summarizes podcast audio/video/text into clear, concise summaries using Whisper and Transformers.
