@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.waveform {
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.bar {
+  height: 30px;
+  background-color: #3b82f6;
+  animation: waveform 0.6s infinite alternate ease-in-out;
+}
+
+@keyframes waveform {
+  0% {
+    transform: scaleY(0.3);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
