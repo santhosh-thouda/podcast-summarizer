@@ -1,0 +1,25 @@
+Podcast Title: The Future of AI – Episode 42
+
+Host: Welcome back to TechTalks! Today we’re diving into the future of artificial intelligence. I'm your host, Sam.
+
+Guest: And I’m Dr. Lisa Park, AI researcher at FutureLab. Excited to be here.
+
+Host: Let’s start with the basics. How do you see AI evolving in the next five years?
+
+Guest: Great question. I think we’ll see a shift from narrow AI—like chatbots—to more generalized systems. These won’t just respond to input but reason, adapt, and collaborate.
+
+Host: That sounds huge. What industries will be impacted most?
+
+Guest: Healthcare, education, and creative industries will see major transformations. For instance, AI could assist doctors with diagnostics or help educators personalize learning.
+
+Host: There’s also concern about job losses. Thoughts?
+
+Guest: It’s valid. While some roles may disappear, many new jobs will emerge. It’s about reskilling and adapting to new tools.
+
+Host: Before we wrap up, one piece of advice for listeners?
+
+Guest: Stay curious. Learn the basics of AI. The more we understand it, the better we can shape its future.
+
+Host: Thank you, Dr. Lisa. And thanks to our listeners! Don’t forget to subscribe and share.
+
+[End of Transcript]
